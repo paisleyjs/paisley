@@ -1,0 +1,12 @@
+{
+  "name": "@paisley/paisley",
+  "version": "0.0.0",
+  "description": "Paisley",
+  "main": "dist/index.ts",
+  "repository": "https://github.com/paisleyjs/paisley",
+  "author": "Ben Swinburne <ben.swinburne@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {}
+}
